@@ -15,6 +15,7 @@ tax_dict = {
     'g': 'Genus',
     's': 'Species',
 }
+print ("wo hao diao,hhhhhhhh")
 
 
 def get_top10(df, output_path):
